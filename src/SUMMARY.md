@@ -8,3 +8,4 @@
     - [Variables](./varaibles.md)
     - [User Input](./input.md)
     - [Arrays and Strings](./array.md)
+    - [Arithmetic and Everyhing Fun](./arthimetic.md)
