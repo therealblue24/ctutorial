@@ -5,3 +5,4 @@
 - [The Beginnings](./begin.md)
     - [Hello, World!](./helloworld.md)
     - [Comments and Escape Sequences](./comments.md)
+    - [Variables](./varaibles.md)
