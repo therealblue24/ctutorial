@@ -6,3 +6,4 @@
     - [Hello, World!](./helloworld.md)
     - [Comments and Escape Sequences](./comments.md)
     - [Variables](./varaibles.md)
+    - [User Input](./input.md)
